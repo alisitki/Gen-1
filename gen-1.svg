@@ -1,0 +1,18 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 274 274" enable-background="new 0 0 274 274" xml:space="preserve" style="background-color:black">
+<style>
+.svg1 {
+stroke-dasharray: 200;
+stroke-dashoffset: 822;
+animation: dash 15s infinite ;
+}
+@keyframes dash {
+from {
+stroke-dashoffset: 822;
+stroke: #00FF00;
+}
+to {
+stroke-dasharray: 411;
+stroke: #00FF00;
+}
+}
+</style><defs><filter id="f1"><feConvolveMatrix kernelMatrix="1 1 0 0 0 0 0 1 -1"/></filter></defs><path class="svg1" filter="url(#f1)" style="fill: none; stroke: white; stroke-width: 0.3; stroke-linecap: round; stroke-linejoin:  miter; stroke-miterlimit: 1;" d="M84 25 104 78ZM190 25 170 78ZM190 249 170 196ZM84 249 104 196ZM25 104 78 71ZM249 104 196 71ZM249 170 196 203ZM25 170 78 203ZM104 78 71 13ZM170 78 203 13ZM170 196 203 261ZM104 196 71 261ZM78 71 13 63ZM196 71 261 63ZM196 203 261 211ZM78 203 13 211ZM71 13 63 33ZM203 13 211 33ZM203 261 211 241ZM71 261 63 241ZM13 63 33 114ZM261 63 241 114ZM261 211 241 160ZM13 211 33 160ZM63 33 114 39ZM211 33 160 39ZM211 241 160 235ZM63 241 114 235ZM33 114 39 120ZM241 114 235 120ZM241 160 235 154ZM33 160 39 154ZM114 39 120 36ZM160 39 154 36ZM160 235 154 238ZM114 235 120 238ZM39 120 36 135ZM235 120 238 135ZM235 154 238 139ZM39 154 36 139ZM120 36 135 75ZM154 36 139 75ZM154 238 139 199ZM120 238 135 199Z" /></svg>
