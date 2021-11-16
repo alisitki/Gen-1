@@ -1,0 +1,16 @@
+{
+  "CONTRACT_ADDRESS": "0xDaf8b70eb6e7adE3AdACbFe47B25959b26eAd76D",
+  "SCAN_LINK": "https://snowtrace.io/address/0xDaf8b70eb6e7adE3AdACbFe47B25959b26eAd76D",
+  "NETWORK": {
+    "NAME": "Avalanche",
+    "SYMBOL":"AVAX",
+    "ID": 43114
+  },
+  "NFT_NAME": "project-gen",
+  "SYMBOL": "gen-1",
+  "MAX_SUPPLY": 777,
+  "WEI_COST": 7000000000000000000,
+  "DISPLAY_COST": 7,
+  "GAS_LIMIT": 8000000,
+  "SHOW_BACKGROUND": false
+}
