@@ -2,7 +2,7 @@
 
 NFTs with metadata that is 100% on-chain. No ipfs, cloud etc..
 
-Generates random art on-chain using the SVG method.
+Generates animated random art on-chain using the SVG method. (supported from any NFT Markets)
 
 # About SVGs
 
