@@ -1,6 +1,6 @@
 # Project Gen / Gen-1
 
-NFTs with metadata that is 100% on-chain. No ipfs, cloud etc..
+NFTs with metadata(include image data) that is 100% on-chain. No ipfs, cloud etc..
 
 Generates animated random art on-chain using the SVG method. (supported from any NFT Markets)
 
