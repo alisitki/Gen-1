@@ -4,7 +4,7 @@ NFTs with metadata that is 100% on-chain. No ipfs, cloud etc..
 
 Generates animated random art on-chain using the SVG method. (supported from any NFT Markets)
 
-Gen1 contract also supports **EIP-2981 NFT Royalty Standard** for first minters. (%7 of secondary market's sale price)
+Gen1 contract also supports <ins> **EIP-2981 NFT Royalty Standard** </ins> for first minters. (%7 of secondary market's sale price)
 
 # About SVGs
 
